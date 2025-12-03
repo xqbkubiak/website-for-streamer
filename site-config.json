@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "title": "NAME | Streamer",
+    "description": "Polish content creator and streamer"
+  },
+  "hero": {
+    "titlePart1": "NAME",
+    "titlePart2": "",
+    "tagline": "Polish content creator and streamer",
+    "streamUrl": "https://www.twitch.tv/NAME"
+  },
+  "footer": {
+    "watermark": "NAME",
+    "heading": "NAME",
+    "description": "Content Creator & Streamer from Poland. Building a community of gaming enthusiasts and good vibes.",
+    "twitchUrl": "https://www.twitch.tv/NAME",
+    "tiktokUrl": "https://www.tiktok.com/@NAME",
+    "copyrightName": "NAME"
+  },
+  "stats": [
+    {
+      "value": 50,
+      "suffix": "K+",
+      "label": "FOLLOWERS"
+    },
+    {
+      "value": 1000,
+      "suffix": "+",
+      "label": "HOURS STREAMED"
+    },
+    {
+      "value": 25,
+      "suffix": "K+",
+      "label": "DISCORD MEMBERS"
+    },
+    {
+      "value": 99,
+      "suffix": "%",
+      "label": "GOOD VIBES"
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "Twitch",
+      "handle": "@NAME",
+      "href": "https://www.twitch.tv/NAME",
+      "description": "Live streams"
+    },
+    {
+      "name": "Discord",
+      "handle": "Community",
+      "href": "https://discord.com/invite/NAME",
+      "description": "Join the server"
+    },
+    {
+      "name": "Instagram",
+      "handle": "@NAME",
+      "href": "https://www.instagram.com/NAME/",
+      "description": "Behind the scenes"
+    },
+    {
+      "name": "Support",
+      "handle": "Tipply",
+      "href": "https://tipply.pl/@NAME",
+      "description": "Show some love"
+    }
+  ],
+  "gear": [
+    {
+      "category": "Mouse",
+      "name": "SteelSeries Aerox 5 Wireless"
+    },
+    {
+      "category": "Keyboard",
+      "name": "Aula F87 Pro Custom"
+    },
+    {
+      "category": "Headset",
+      "name": "SteelSeries Arctis Nova Pro Wireless"
+    },
+    {
+      "category": "Microphone",
+      "name": "SHURE SM7B"
+    }
+  ],
+  "fragrances": [
+    "Carolina Herrera Bad Boy",
+    "Carolina Herrera Bad Boy Cobalt",
+    "Armani Stronger With You",
+    "Jean Paul Gaultier Le Male Elixir",
+    "Armani Code Profumo"
+  ],
+  "setup": [
+    {
+      "id": "pc",
+      "name": "PC Specs",
+      "color": "white",
+      "items": [
+        {
+          "label": "CPU",
+          "value": "AMD Ryzen 9 5950x"
+        },
+        {
+          "label": "GPU",
+          "value": "MSI GeForce RTX 3090 Aorus Master"
+        },
+        {
+          "label": "RAM",
+          "value": "G.Skill Flare X 64GB DDR4"
+        },
+        {
+          "label": "Cooling",
+          "value": "NZXT Kraken X73"
+        },
+        {
+          "label": "Motherboard",
+          "value": "Asus ROG Crosshair VIII Dark Hero"
+        },
+        {
+          "label": "PSU",
+          "value": "Corsair HX1200"
+        }
+      ]
+    },
+    {
+      "id": "streaming",
+      "name": "Streaming",
+      "color": "white",
+      "items": [
+        {
+          "label": "Camera",
+          "value": "Sony Alpha A7 III"
+        },
+        {
+          "label": "Lens",
+          "value": "Sony FE 35mm f/1.8"
+        },
+        {
+          "label": "Lighting",
+          "value": "Elgato Key Light"
+        },
+        {
+          "label": "Interface",
+          "value": "TC Helicon GO XLR MINI"
+        },
+        {
+          "label": "Stream Deck",
+          "value": "Elgato Stream Deck XL"
+        },
+        {
+          "label": "Chair",
+          "value": "Ergohuman KM11"
+        }
+      ]
+    },
+    {
+      "id": "portable",
+      "name": "Portable",
+      "color": "white",
+      "items": [
+        {
+          "label": "Notebook",
+          "value": "MacBook Pro M2"
+        },
+        {
+          "label": "Handheld",
+          "value": "ASUS ROG Ally Z1 Extreme"
+        },
+        {
+          "label": "Projector",
+          "value": "Samsung Freestyle"
+        },
+        {
+          "label": "Speaker",
+          "value": "JBL Charge 51"
+        },
+        {
+          "label": "Router",
+          "value": "Netgear Nighthawk M1"
+        },
+        {
+          "label": "Powerbank",
+          "value": "Baseus 65W 30000mAh"
+        }
+      ]
+    }
+  ]
+}
